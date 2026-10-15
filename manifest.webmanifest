@@ -3,24 +3,23 @@
   "short_name": "重启人生",
   "description": "90天生活重建：运动、学习、健康饮食与习惯记录",
   "lang": "zh-CN",
-  "start_url": "/restart-life/",
-  "scope": "/restart-life/",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#101216",
   "theme_color": "#101216",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
-  ],
-  "id": "/restart-life/"
+  ]
 }
